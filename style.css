@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+    color: red;
+}
+
+.container p{
+    text-align: center;
+    font-weight: bold;
+    line-height: 30px;
+}
+.hashingclass{
+    text-align: center;
+}
